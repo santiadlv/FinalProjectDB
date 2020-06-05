@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="Classes\ConsoleTable.cs" />
     <Compile Include="Classes\FormatData.cs" />
+    <Compile Include="Classes\MasterControl.cs" />
     <Compile Include="Classes\StoredProcedures.cs" />
     <Compile Include="Classes\Views.cs" />
     <Compile Include="Program.cs" />

@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using ProfessorFeedback.Classes;
 
 namespace ProfessorFeedback
 {
@@ -10,6 +11,7 @@ namespace ProfessorFeedback
     {
         static void Main(string[] args)
         {
+            MasterControl.StartProgram();
         }
     }
 }
